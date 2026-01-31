@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Selam, ben Aziz Efe Çırak!
 
-<!--
-**azzizefe/azzizefe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Hakkımda
+- 🛡️ **İstinye Üniversitesi**'nde Bilişim Güvenliği Teknolojisi 2. sınıf öğrencisiyim.
+- 📱 **Mobil Uygulama Geliştiricisi:** Flutter ile kullanıcı deneyimi yüksek uygulamalar geliştiriyorum.
+- 🤖 **AI & Otomasyon Meraklısı:** n8n ve yapay zeka modellerini iş süreçlerine entegre etmeye odaklanıyorum.
+- 💻 **Vibe Coding:** Kod yazarken akışta kalmayı ve yaratıcı çözümler üretmeyi seviyorum.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Nelerle Uğraşıyorum?
+- 🎙️ **Proje Jarvis:** Sesli komutlarla çalışan, görsel analiz yapabilen gelişmiş bir yapay zeka asistanı geliştiriyorum.
+- 📸 **Social-Dating App:** Instagram ve Tinder dinamiklerini birleştiren modern bir mobil uygulama üzerinde çalışıyorum.
+- 🔍 **Cybersecurity:** OSINT teknikleri ve ağ güvenliği üzerine kendimi geliştiriyorum.
+
+---
+
+### 🛠️ Teknolojiler & Araçlar
+- **Diller & Frameworkler:** Flutter, Dart, Python
+- **Otomasyon:** n8n, AI Agent entegrasyonları
+- **Veritabanı & Backend:** Firebase, Node.js
+- **Güvenlik:** OSINT araçları, Linux
+
+---
+
+### 📫 Benimle İletişime Geç
+- 💼 **LinkedIn:** [linkedin.com/in/azizefe/](https://www.linkedin.com/in/azizefe/)
+- 🌐 **Topluluk:** n8n ve yapay zeka üzerine kurduğum Telegram topluluğuna katılabilirsiniz.
+
