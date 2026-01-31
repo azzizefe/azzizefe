@@ -10,13 +10,13 @@
 
 ### 🚀 Nelerle Uğraşıyorum?
 - 🎙️ **Proje Jarvis:** Sesli komutlarla çalışan, görsel analiz yapabilen gelişmiş bir yapay zeka asistanı geliştiriyorum.
-- 📸 **Social-Dating App:** Instagram ve Tinder dinamiklerini birleştiren modern bir mobil uygulama üzerinde çalışıyorum.
+- 📸 **App:** sosyal medya dinamiklerini birleştiren modern bir mobil uygulama üzerinde çalışıyorum.
 - 🔍 **Cybersecurity:** OSINT teknikleri ve ağ güvenliği üzerine kendimi geliştiriyorum.
 
 ---
 
 ### 🛠️ Teknolojiler & Araçlar
-- **Diller & Frameworkler:** Flutter, Dart, Python
+- **Diller & Frameworkler:** Flutter, Dart, Python , Rust
 - **Otomasyon:** n8n, AI Agent entegrasyonları
 - **Veritabanı & Backend:** Firebase, Node.js
 - **Güvenlik:** OSINT araçları, Linux
@@ -25,5 +25,5 @@
 
 ### 📫 Benimle İletişime Geç
 - 💼 **LinkedIn:** [linkedin.com/in/azizefe/](https://www.linkedin.com/in/azizefe/)
-- 🌐 **Topluluk:** n8n ve yapay zeka üzerine kurduğum Telegram topluluğuna katılabilirsiniz.
+
 
