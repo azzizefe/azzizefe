@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Nelerle Uğraşıyorum?
-- 🎙️ **Proje :** mobil uygulamara özel yapay zekalar geliştiriyorum.
+- 🎙️ **Proje :** mobil uygulamalara özel yapay zekalar geliştiriyorum.
 - 📸 **App:** sosyal medya dinamiklerini birleştiren modern bir mobil uygulama üzerinde çalışıyorum.
 - 🔍 **Cybersecurity:** OSINT teknikleri ve ağ güvenliği üzerine kendimi geliştiriyorum.
 
