@@ -3,9 +3,8 @@
 ### 🎓 Hakkımda
 - 🛡️ **İstinye Üniversitesi**'nde Bilişim Güvenliği Teknolojisi 2. sınıf öğrencisiyim.
 - 📱 **Mobil Uygulama Geliştiricisi:** Flutter ile kullanıcı deneyimi yüksek uygulamalar geliştiriyorum.
-- 🤖 **AI & Otomasyon Meraklısı:** n8n ve yapay zeka modellerini iş süreçlerine entegre etmeye odaklanıyorum.
 - 💻 **Vibe Coding:** Kod yazarken akışta kalmayı ve yaratıcı çözümler üretmeyi seviyorum.
-
+  
 ---
 
 ### 🚀 Nelerle Uğraşıyorum?
@@ -17,7 +16,6 @@
 
 ### 🛠️ Teknolojiler & Araçlar
 - **Diller & Frameworkler:** Flutter, Dart, Python , Rust
-- **Otomasyon:** n8n, AI Agent entegrasyonları
 - **Veritabanı & Backend:** Firebase, Node.js
 - **Güvenlik:** OSINT araçları, Linux
 
