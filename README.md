@@ -1,24 +1,34 @@
-# 👋 Selam, ben Aziz Efe Çırak!
-### 🎓 Hakkımda
-- 🛡️ **İstinye Üniversitesi**'nde Bilişim Güvenliği Teknolojisi 2. sınıf öğrencisiyim.
-- 📱 **Mobil Uygulama Geliştiricisi:** Flutter ile kullanıcı deneyimi yüksek uygulamalar geliştiriyorum.
-- 💻 **Vibe Coding:** Kod yazarken akışta kalmayı ve yaratıcı çözümler üretmeyi seviyorum.
-  
----
-### 🚀 Nelerle Uğraşıyorum?
-- 🎙️ **Proje :** mobil uygulamalar geliştiriyorum.
-- 📸 **App:** sosyal medya dinamiklerini birleştiren modern bir mobil uygulama üzerinde çalışıyorum.
-- 🔍 **Cybersecurity:** OSINT teknikleri ve ağ güvenliği üzerine kendimi geliştiriyorum.
+# 👋 Hi, I'm Aziz Efe Çırak!
 
----
-### 🛠️ Teknolojiler & Araçlar
-- **Diller & Frameworkler:** Flutter, Dart, Python , Rust , PostgreSQL
-- **Veritabanı & Backend:** Firebase, Node.js
-- **Güvenlik:** OSINT araçları, Linux
+### 🚀 "AI allows anyone to code, but the real secret lies in orchestrating it masterfully."
+
+I am a **Vibe Coder**. I leverage AI as a powerful assistant to accelerate my workflow while keeping my core focus on architecture, logic, and high-level creativity. Backed by my cybersecurity background, I don't just build functional software—I engineer secure, optimized systems because I know **exactly what needs to be hidden and protected**.
 
 ---
 
-### 📫 Benimle İletişime Geç
+### 🎓 Education
+- 🛡️ **İstinye University** — Information Security Technology (Graduate)
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages & Frameworks** | Rust, Go, Python, TypeScript, Flutter, Dart, Svelte |
+| **Desktop & Web UI** | Tauri, Svelte, TailwindCSS |
+| **Backend & Databases**   | PostgreSQL, Firebase, Node.js, Advanced Database Architectures |
+| **System & Security**      | WSL (Windows Subsystem for Linux), Linux, OSINT, Network & System Security |
+
+---
+
+### 💻 What I Do / Projects
+
+*   **Modern Mobile & Web Apps:** Developing high-UX, cross-platform applications leveraging Flutter and Tauri, blending modern social media dynamics with smooth performance.
+*   **NextCMS & Database Architecture:** Building modern, performance-driven Content Management Systems (CMS) and designing optimized, secure database infrastructures.
+*   **Cybersecurity & OSINT:** Applying both defensive and offensive security principles to analyze system vulnerabilities and ensure critical data is properly safeguarded.
+
+---
+
+### 📫 Connect With Me
 - 💼 **LinkedIn:** [linkedin.com/in/azizefe/](https://www.linkedin.com/in/azizefe/)
-
-
