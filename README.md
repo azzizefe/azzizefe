@@ -16,7 +16,7 @@ I am a **Vibe Coder** with a background in cybersecurity. I leverage AI to super
 
 *   **Languages:** Rust, Go, Python, TypeScript, Dart
 *   **Frontend & Apps:** Flutter, Svelte, Tauri
-*   **Backend & DB:** Node.js, PostgreSQL, Firebase
+*   **Backend & DB:** Node.js, PostgreSQL
 *   **System & Security:** WSL, Linux, OSINT, Network Security
 
 ---
