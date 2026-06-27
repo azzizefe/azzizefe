@@ -7,7 +7,7 @@ I am a **Vibe Coder** with a background in cybersecurity. I leverage AI to super
 ---
 
 ### 🎓 Education & Info
-- 🛡️ **İstinye University** — Information Security Technology (Graduate)
+- 🛡️ **İstinye University** — Information Security Technology 
 - 💼 **LinkedIn:** [linkedin.com/in/azizefe/](https://www.linkedin.com/in/azizefe/)
 
 ---
